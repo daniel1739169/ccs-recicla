@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+body{
+	background-image: url(../img/recicla.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	zoom: 80%;
+}
+
+
+.contenedor_form_login{
+	display: flex;
+	width: 400px;
+	height: 450px;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	background: #F7F5F5;
+	top: -20%;
+	left: 80%;
+	transform: translate(-50%, 50%);
+	padding: 1%;
+	border-radius: 20px;
+
+}
+.form_login{
+	width: 300px;
+	span{
+		width: 40px;
+		background-color: #E205FA;
+	}	
+	h1{	margin: bottom: 5px;
+		color: #000;
+	}		
+}
+
+.elementos_navbar{
+	opacity: 1;
+	width: 200px;
+	height: 100px;
+}
+
+.navbar_log{
+	background-color: #ffffff55;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
