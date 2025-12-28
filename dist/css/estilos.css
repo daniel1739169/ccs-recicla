@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+body{
+	background-image: url(../../img/fondoeco.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	zoom: 90%;
+}
+
+
+.contenedor_form_login{
+	display: flex;
+	width: 550px;
+	height: 550px;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	background: #ffffff;
+	top: 400%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 1%;
+	border-radius: 40px;
+
+}
+.form_login{
+	width: 400px;
+	span{
+		width: 40px;
+		background-color: #E205FA;
+	}	
+	h1{	margin: bottom: 5px;
+		color: #000;
+	}		
+}
+
+.elementos_navbar{
+	opacity: 1;
+	width: 200px;
+	height: 100px;
+}
+
+.navbar_log{
+	background-color: #ffffff00;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
